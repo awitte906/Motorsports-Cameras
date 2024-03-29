@@ -1,0 +1,52 @@
+.holidaykitchen {
+    background: url(camera.png);
+    background-size: 100% 100%;
+    height: 500px;
+}
+
+.article {
+    margin-top: 60px;
+}
+
+.logotext {
+    font-family: "Imbue", serif;
+    font-size: 65px;
+}
+
+.blogposttitle {
+    background: linear-gradient(#6f6f6f, #4a4a4a);
+    padding: 10px;
+}
+
+#intro {
+    font-size: 22px;
+    margin-top: 100px;
+    margin-bottom: 40px;
+}
+
+.blog-post {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.camera_images {
+    margin-top: 15px;
+    margin-bottom: 55px;
+    margin-right: 100px;
+    width: 420px;
+    float: left;
+    border-radius: 10%;
+}
+
+.descriptions {
+    font-size: 18px;
+}
+
+.segments {
+    display: grid;
+}
+
+.infopara {
+    margin-top: 60px;
+    width: 1300px;
+}
